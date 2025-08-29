@@ -1,0 +1,3 @@
+# omarchy
+
+My Omarchy config.
