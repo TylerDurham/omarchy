@@ -15,14 +15,20 @@
 
 My [Omarchy](https://omarchy.org) config.
 
+## Installation
+
+``` sh 
+stow -S pkg -t ~/
+```
+
 # Features
 
-# Web Apps
+## Web Apps
 
-# Hyprland
+## Hyprland
 
-# Waybar
+## Waybar
 
-# Scripts
+## Scripts
 
 
