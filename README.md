@@ -25,6 +25,12 @@ stow -S pkg -t ~/
 
 ## Web Apps
 
+- Amazon Prime Video
+- Gitea
+- Logos
+- Netflix
+- Plex
+
 ## Hyprland
 
 ## Waybar
